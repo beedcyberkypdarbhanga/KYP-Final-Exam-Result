@@ -54,7 +54,7 @@ function checkResult() {
               totalScore +
               ' out of 300 (' +
               totalPercentage.toFixed(2) +
-              '%)<hr>Thanks for connecting with Beed Cyber Infotech KYP Center<hr>';
+              '%)<hr>Thanks for connecting with Beed Cyber Infotech KYP Center (KYP02010003)<hr>';
 
             // Create the downloadButton dynamically
             var downloadButton = document.createElement('input');
